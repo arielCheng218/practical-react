@@ -1,0 +1,13 @@
+.todo-content {
+  display: inline-block;
+  text-align: left;
+  align-content: left;
+  align-self: left;
+  margin-top: 1%;
+}
+
+#Todolist {
+  text-align: left;
+  margin-left: 37%;
+  margin-top: 2%;
+}
